@@ -1,5 +1,5 @@
 # IMU-Based Object Activity Recognition:
-## An Industrial Dataset and Benchmark Study for Enhanced Process Transparency in Logistics
+## An Industrial Dataset and Deep Learning Approach for Enhanced Process Transparency in Logistics
 ### Review code
 
 This repository contains the code for running trainings on SPARL3 dataset, an industrial dataset for object activity recognition using IMU sensors. The dataset and code are designed to facilitate research in process transparency in logistics.
